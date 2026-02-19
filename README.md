@@ -13,7 +13,7 @@
 - 🛠️ **易于使用**：简洁的界面，只需输入任务描述即可
 
 ## 界面演示
-
+视频演示：https://www.bilibili.com/video/BV1M5q4BEEoL/?share_source=copy_web&vd_source=f5f63171dd0759ae799a970f73ce0a5c
 ![界面演示](interface.jpg)
 
 ## 系统要求
